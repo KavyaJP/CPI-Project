@@ -44,5 +44,3 @@ Crop_Damage	Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damag
 ID: Unique ID
 
 Crop_Damage: Predicted Crop damage category for the test set 
-
-**my solution got me a score of 0.847542289037427 and rank of 122** 
